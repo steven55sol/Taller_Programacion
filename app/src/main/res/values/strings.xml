@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SumadoraUAE</string>
+    <string name="titulo_principal">INTERFAZ PRINCIPAL</string>
+    <string name="hint_num1">Ingrese el primer número</string>
+    <string name="hint_num2">Ingrese el segundo número</string>
+    <string name="btn_sumar">Sumar</string>
+    <string name="lbl_resultado">Resultado:</string>
+    <string name="msg_error_vacio">Este campo no puede estar vacío</string>
+    <string name="msg_error_numero">Por favor ingrese solo números</string>
+    <string name="msg_exito">Operación realizada con éxito</string>
+</resources>
